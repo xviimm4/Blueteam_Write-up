@@ -1,6 +1,6 @@
-# SOC Write-ups
+# Blue Team Write-ups
 
-Welcome to my SOC Write-ups repository! This project contains detailed write-ups, investigations, and solutions for various Security Operations Center (SOC) challenges and alerts, primarily focusing on the [LetsDefend](https://letsdefend.io/) platform.
+Welcome to my Blue Team Write-ups repository! This project contains detailed write-ups, investigations, and solutions for various Security Operations Center (SOC) challenges and alerts, primarily focusing on the [LetsDefend](https://letsdefend.io/) platform.
 
 
 ## Objective
